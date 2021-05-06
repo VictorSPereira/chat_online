@@ -1,5 +1,16 @@
-# Chat_online
+# chat_online
 
-Application with the Flutter language and the Firebase platform.
+A new Flutter project.
 
-![WhatsApp Image 2021-04-15 at 20 56 50](https://user-images.githubusercontent.com/54122778/114952756-544d4880-9e2d-11eb-8067-a9a1b77f5f4c.jpeg)
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
